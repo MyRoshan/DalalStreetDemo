@@ -24,6 +24,7 @@ public class TestBase {
 	public static Logger logger;
 	
 	//made changes as Chrome to chrome (These changes made by roshan);
+	//approve the changes pranita
 	@BeforeClass
 	public void start()
 	{
